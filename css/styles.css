@@ -75,6 +75,8 @@ table {
 ul {  
   padding-top: 100px;
   list-style: none;
+  display: flex;
+  flex-wrap: wrap;
 }
 
 
